@@ -12,9 +12,10 @@ Although the bootcamp is intended for 10-12 weeks of learning, I try to mark my 
 **End date**: TBA
 
 ## Some small side projects 
-1. [PhotoBlog]()
-![blog]()
-1.  
+1. [PhotoBlog](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Small%20Projects/PhotoBlog)
+[Demo]()
+![blog](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Small%20Projects/PhotoBlog/images/blog.png)
+2.   
 
 
 ---
@@ -22,10 +23,10 @@ Although the bootcamp is intended for 10-12 weeks of learning, I try to mark my 
 ## Practice exercises with my solutions:
 Coding number| Link |Coding number| Link |Coding number| Link |Coding number| Link |Coding number| Link |
 |:------------:|:----------:|:------------:|:----------:|:------------:|:----------:|:------------:|:----------:|:------------:|:----------:|
-|1|[link]()|14|[link]()|27|[link]()|40|[link]()|53|[link]()|
-|2|[link]()|15|[link]()|28|[link]()|41|[link]()|54|[link]()|
-|3|[link]()|16|[link]()|29|[link]()|42|[link]()|55|[link]()|
-|4|[link]()|17|[link]()|30|[link]()|43|[link]()|56|[link]()|
+|1|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Coding%20exercises/1/1.html)|14|[link]()|27|[link]()|40|[link]()|53|[link]()|
+|2|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Coding%20exercises/2/2.html)|15|[link]()|28|[link]()|41|[link]()|54|[link]()|
+|3|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Coding%20exercises/3/3.html)|16|[link]()|29|[link]()|42|[link]()|55|[link]()|
+|4|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Coding%20exercises/4/4.html)|17|[link]()|30|[link]()|43|[link]()|56|[link]()|
 |5|[link]()|18|[link]()|31|[link]()|44|[link]()|57|[link]()|
 |6|[link]()|19|[link]()|32|[link]()|45|[link]()|58|[link]()|
 |7|[link]()|20|[link]()|33|[link]()|46|[link]()|59|[link]()|
