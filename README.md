@@ -8,12 +8,13 @@ This is the first course I have taken when I first learn about Web Development W
 Although the bootcamp is intended for 10-12 weeks of learning, I try to mark my start and end day to track my progress.
  
 **Start date**: 06/15/2022
+<br>
 **End date**: TBA
 
 ## Some small side projects 
 1. [PhotoBlog]()
-
-2.  
+![blog]()
+1.  
 
 
 ---
