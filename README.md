@@ -14,7 +14,10 @@ Although the bootcamp is intended for 10-12 weeks of learning, I try to mark my 
 ## Some small side projects 
 1. [PhotoBlog](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Small%20Projects/PhotoBlog)
 ![blog](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Small%20Projects/PhotoBlog/images/blog.png)
-1.   
+
+
+
+
 
 
 ---

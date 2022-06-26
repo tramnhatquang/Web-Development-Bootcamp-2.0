@@ -1,0 +1,13 @@
+/* YOUR CODE GOES IN HERE */
+img {
+    width: 200px;
+    /*border: width | style | color*/
+    border: 5px solid rgb(236, 183, 191);
+    border-radius: 50%;
+}
+.card {
+    width: 210px;
+    text-align: center;
+    border: 1px solid grey;
+    border-radius: 5px;
+}
