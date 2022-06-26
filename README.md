@@ -23,9 +23,10 @@
 This is the first course I have taken when I first learn about Web Development World. So far, I am enjoyed learning about it and honestly struggle with all the HTML/CSS properties a lot. 
 
 Although the bootcamp is intended for 10-12 weeks of learning, I try to mark my start and end day to track my progress.
-<br>
+
 **Start date**: 06/15/2022
-</br>
+<br>
+
 **End date**: TBA
 ---
 
