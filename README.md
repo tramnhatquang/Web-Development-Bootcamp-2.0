@@ -3,6 +3,12 @@
 ## [Link to the course in Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 ---
 
+## Some small side projects 
+1. [PhotoBlog](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Small%20Projects/PhotoBlog)
+![blog](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Small%20Projects/PhotoBlog/images/blog.png)
+
+---
+
 ## I have included the solutions for both the coding exercises and quizzes below  :point_down: :point_down:
 ### :point_right: [Coding solutions (1-10)](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises)
 ### :point_right: [Coding solutions (11-20)](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises%20(11-20))
@@ -19,13 +25,8 @@ This is the first course I have taken when I first learn about Web Development W
 Although the bootcamp is intended for 10-12 weeks of learning, I try to mark my start and end day to track my progress.
 <br>
 **Start date**: 06/15/2022
-<br>
+</br>
 **End date**: TBA
-
-## Some small side projects 
-1. [PhotoBlog](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Small%20Projects/PhotoBlog)
-![blog](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Small%20Projects/PhotoBlog/images/blog.png)
-
 ---
 
 ## Practice exercises with my solutions:
