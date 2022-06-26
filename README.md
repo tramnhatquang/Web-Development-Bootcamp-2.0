@@ -3,7 +3,7 @@
 ## [Link to the course in Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 ---
 
-##**I have included the solutions for both the coding exercises and quizzes below** :point_down: :point_down:
+## I have included the solutions for both the coding exercises and quizzes below :point_down: :point_down:
 ---
 ## Intro:
 This is the first course I have taken when I first learn about Web Development World. So far, I am enjoyed learning about it and honestly struggle with all the HTML/CSS properties a lot. 
