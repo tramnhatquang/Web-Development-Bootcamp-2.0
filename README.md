@@ -2,13 +2,14 @@
 ---
 ## [Link to the course in Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 ---
+
+##**I have included the solutions for both the coding exercises and quizzes below** :point_down: :point_down:
+---
 ## Intro:
 This is the first course I have taken when I first learn about Web Development World. So far, I am enjoyed learning about it and honestly struggle with all the HTML/CSS properties a lot. 
 
 Although the bootcamp is intended for 10-12 weeks of learning, I try to mark my start and end day to track my progress.
-
-**I have included the solutions for both the coding exercises and quizzes below** 
-:point_down:
+<br>
 **Start date**: 06/15/2022
 <br>
 **End date**: TBA
@@ -40,9 +41,9 @@ Coding number| Link |Coding number| Link |Coding number| Link |Coding number| Li
 ## Quiz solutions
 Number | Link 
 |:------------:|:----------:|
-1 | [link]()
-2 | [link]()
-3 | [link]()
-4 | [link]()
-5 | [link]()
-6 | [link]()
+1 | [link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Quiz%20Solutions/1.md)
+2 | [link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Quiz%20Solutions/2.md)
+3 | [link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Quiz%20Solutions/3.md)
+4 | [link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Quiz%20Solutions/4.md)
+5 | [link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Quiz%20Solutions/5.md)
+6 | [link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Quiz%20Solutions/6.md)
