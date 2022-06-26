@@ -3,7 +3,15 @@
 ## [Link to the course in Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 ---
 
-## I have included the solutions for both the coding exercises and quizzes below :point_down: :point_down:
+## I have included the solutions for both the coding exercises and quizzes below  :point_down: :point_down:
+### :point_right: [Coding solutions (1-10)](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises)
+### :point_right: [Coding solutions (11-20)](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises%20(11-20))
+### :point_right: [Coding solutions (21-30)](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises%20(21-30))
+### :point_right: [Coding solutions (31-40)](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises%20(31-40))
+### :point_right: [Coding solutions (41-50)](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises%20(41%20-%2050))
+### :point_right: [Coding solutions (51-62)](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises%20(51%20-%2062))
+### :point_right: [Quiz solutions](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Quiz%20Solutions)
+
 ---
 ## Intro:
 This is the first course I have taken when I first learn about Web Development World. So far, I am enjoyed learning about it and honestly struggle with all the HTML/CSS properties a lot. 
@@ -23,7 +31,7 @@ Although the bootcamp is intended for 10-12 weeks of learning, I try to mark my 
 ## Practice exercises with my solutions:
 Coding number| Link |Coding number| Link |Coding number| Link |Coding number| Link |Coding number| Link |
 |:------------:|:----------:|:------------:|:----------:|:------------:|:----------:|:------------:|:----------:|:------------:|:----------:|
-|1|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Coding%20exercises/1/1.html)|14|[link]()|27|[link]()|40|[link]()|53|[link]()|
+|1|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Coding%20exercises/1/1.html)|14|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises%20(11-20)/14)|27|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/tree/main/Coding%20exercises%20(21-30)/27)|40|[link]()|53|[link]()|
 |2|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Coding%20exercises/2/2.html)|15|[link]()|28|[link]()|41|[link]()|54|[link]()|
 |3|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Coding%20exercises/3/3.html)|16|[link]()|29|[link]()|42|[link]()|55|[link]()|
 |4|[link](https://github.com/tramnhatquang/Web_Development_Bootcamp_2.0/blob/main/Coding%20exercises/4/4.html)|17|[link]()|30|[link]()|43|[link]()|56|[link]()|
