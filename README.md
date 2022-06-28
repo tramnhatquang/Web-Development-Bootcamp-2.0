@@ -1,4 +1,4 @@
-# WEB DEVELOPER BOOTCAMP 2.0 - Colt Steele
+# WEB DEVELOPMENT BOOTCAMP 2.0 - Colt Steele
 ---
 ## [Link to the course in Udemy](https://www.udemy.com/course/the-web-developer-bootcamp/)
 ---
